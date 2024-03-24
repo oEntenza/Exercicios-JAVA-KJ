@@ -25,6 +25,7 @@ public class Main {
 	
     /*
      * EXERCICIO 2
+     *
      * public static void main(String[] args) {
         JogoAdivinhacao jogo = new JogoAdivinhacao();
         jogo.sortear();
@@ -33,6 +34,7 @@ public class Main {
     
 	/*
 	 * EXERCICIO 3
+	 *
 	 * public static void main(String[] args) {
    	 Cliente cliente1 = new Cliente("Joaozin gameplays", 1000, 500);
         System.out.println("Saldo + Limite: " + cliente1.checarSaldo());
